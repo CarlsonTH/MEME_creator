@@ -30,7 +30,7 @@ Faites glisser la souris pour redimensionner la zone d'image.
 2-Ouvrez index.html :
 Ouvrez le fichier index.html dans votre navigateur préféré.
 
-Personnalisation
+<h1>Personnalisation</h1>
 
 Ajout de polices :
 Ajoutez des polices supplémentaires dans la liste déroulante de la section "Police" du formulaire.
